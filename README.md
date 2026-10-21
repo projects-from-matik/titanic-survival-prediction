@@ -8,7 +8,7 @@ This project demonstrates end-to-end processing of tabular data and building a 3
 ## 🛠 Tech Stack
 - **Python 3.9+**
 - **Pandas & NumPy** (Data Preprocessing & One-Hot Encoding)
-- **TensorFlow / Keras** (Deep Neural Network)
+- **Keras** (Deep Neural Network)
 - **Scikit-Learn**
 
 ## 📊 Pipeline Architecture
